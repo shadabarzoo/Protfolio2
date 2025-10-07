@@ -4,8 +4,6 @@ A responsive portfolio made using latest technologies
 =======
 # 🚀 My Portfolio Website
 
-![image](https://github.com/user-attachments/assets/ade45c4b-b2cb-46cb-b8a6-31cad3bd0c5a)
-
 ## 🚨 Forking this repo (please read!)
 
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
